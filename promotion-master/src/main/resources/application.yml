@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: Promotion
+  h2:
+    console:
+      enabled: true
+
+server:
+  port: 9091
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: ${EUREKA_URI:http://10.199.0.171:8761/eureka}
+  instance:
+    preferIpAddress: true
