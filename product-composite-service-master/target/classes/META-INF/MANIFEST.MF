@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: product-composite-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: osgdev
+Implementation-Vendor-Id: com.micro
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/product-composite-service
+Created-By: Maven Integration for Eclipse
+

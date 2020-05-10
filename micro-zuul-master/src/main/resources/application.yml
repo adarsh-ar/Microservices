@@ -1,0 +1,11 @@
+server:
+  port: 8567
+spring:
+  application:
+    name: micro-zuul
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: ${EUREKA_URI:http://10.199.0.171:8761/eureka}
+  instance:
+    preferIpAddress: true

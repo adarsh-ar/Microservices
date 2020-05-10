@@ -1,0 +1,14 @@
+com/micro/productcompositeservice/controller/ProductCompositeController.class
+com/micro/productcompositeservice/model/PriceModel.class
+com/micro/productcompositeservice/adaptor/InventoryAdaptor.class
+com/micro/productcompositeservice/util/ProductUtil.class
+com/micro/productcompositeservice/adaptor/ProductAdaptor.class
+com/micro/productcompositeservice/adaptor/PriceAdaptor.class
+com/micro/productcompositeservice/model/ProductCreationModel.class
+com/micro/productcompositeservice/model/PromotionModel.class
+com/micro/productcompositeservice/adaptor/PromotionAdaptor.class
+com/micro/productcompositeservice/service/ProductService.class
+com/micro/productcompositeservice/model/ProductModel.class
+com/micro/productcompositeservice/model/InventoryModel.class
+com/micro/productcompositeservice/model/Response.class
+com/micro/productcompositeservice/ProductCompositeServiceApplication.class

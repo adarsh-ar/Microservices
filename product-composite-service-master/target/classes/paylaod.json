@@ -1,0 +1,16 @@
+{
+	"productName": "IPHIONE",
+	"description": "Mobile",
+	"isSellable": true,
+	"Discount": "YES",
+	"PromotionName": "Available",
+	"Status": "Available",
+	"price": 23.0,
+	"basePrice": 23.8,
+	"sellingPrice": 2.7,
+	"availableQuantity": 8,
+	"minQuantity": 9,
+	"maxQuantity": 9,
+	"totalQuantity": 9,
+	"manufacturer": "APPLE"
+}

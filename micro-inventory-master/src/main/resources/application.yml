@@ -1,0 +1,21 @@
+server:
+  port: 9096
+spring:
+  application:
+    name: micro-inventory
+  h2:
+    console:
+      enabled: true
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        format_sql: true
+    show-sql: true
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: ${EUREKA_URI:http://10.199.0.171:8761/eureka}
+  instance:
+    preferIpAddress: true

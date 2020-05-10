@@ -1,0 +1,14 @@
+/home/osgdev/aakash/product-composite-service/src/main/java/com/micro/productcompositeservice/model/InventoryModel.java
+/home/osgdev/aakash/product-composite-service/src/main/java/com/micro/productcompositeservice/model/ProductModel.java
+/home/osgdev/aakash/product-composite-service/src/main/java/com/micro/productcompositeservice/ProductCompositeServiceApplication.java
+/home/osgdev/aakash/product-composite-service/src/main/java/com/micro/productcompositeservice/controller/ProductCompositeController.java
+/home/osgdev/aakash/product-composite-service/src/main/java/com/micro/productcompositeservice/model/PriceModel.java
+/home/osgdev/aakash/product-composite-service/src/main/java/com/micro/productcompositeservice/adaptor/PromotionAdaptor.java
+/home/osgdev/aakash/product-composite-service/src/main/java/com/micro/productcompositeservice/model/Response.java
+/home/osgdev/aakash/product-composite-service/src/main/java/com/micro/productcompositeservice/adaptor/PriceAdaptor.java
+/home/osgdev/aakash/product-composite-service/src/main/java/com/micro/productcompositeservice/model/ProductCreationModel.java
+/home/osgdev/aakash/product-composite-service/src/main/java/com/micro/productcompositeservice/adaptor/ProductAdaptor.java
+/home/osgdev/aakash/product-composite-service/src/main/java/com/micro/productcompositeservice/model/PromotionModel.java
+/home/osgdev/aakash/product-composite-service/src/main/java/com/micro/productcompositeservice/util/ProductUtil.java
+/home/osgdev/aakash/product-composite-service/src/main/java/com/micro/productcompositeservice/service/ProductService.java
+/home/osgdev/aakash/product-composite-service/src/main/java/com/micro/productcompositeservice/adaptor/InventoryAdaptor.java
